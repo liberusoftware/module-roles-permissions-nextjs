@@ -1,2 +1,8 @@
-/** Registration metadata for this skeleton; not a domain or API schema. */
-export const moduleDefinition = {id: 'module-boilerplate-nextjs', presentation: 'next-react', status: 'skeleton'} as const;
+/** Skeleton registration metadata; this is not a domain/API contract. */
+export const moduleDefinition = {
+  "id": "module-roles-permissions-nextjs",
+  "presentation": "next-react",
+  "capabilityKey": "liberusoftware/roles-permissions",
+  "status": "skeleton",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/nextjs/roles-permissions.md"
+} as const;

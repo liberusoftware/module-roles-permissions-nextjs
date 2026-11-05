@@ -1,0 +1,25 @@
+{
+  "repository": "module-roles-permissions-nextjs",
+  "capabilityKey": "liberusoftware/roles-permissions",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-roles-permissions-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/boilerplate/nextjs/roles-permissions.md",
+  "presentationPlan": "projects/boilerplate/nextjs/roles-permissions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
